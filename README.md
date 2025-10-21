@@ -9,7 +9,7 @@ This project implements a stock market predictor using Facebook's Prophet librar
 
 <b>Download or clone the repository from GitHub:</b>
 ```
-git clone https://github.com/BhakeSart/Stock-Market-Predictor-using-Prophet.git
+https://github.com/chaitanyakumargunuru/Stock-Market-Predictor-using-Prophet/edit/main/README.md
 ```
 
 <b>Create a virtual environment:</b>
